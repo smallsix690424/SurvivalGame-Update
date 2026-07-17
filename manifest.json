@@ -1,22 +1,22 @@
 {
   "manifestVersion": "1.0.0",
-  "coreVersion": "0.1.8",
+  "coreVersion": "0.1.9",
   "modules": [
     {
       "id": "core",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "checksum": "58841181F1D17054D9C6367F87D2F4EC79E6E3081208CB038A0FAE444EEC097E",
       "path": "modules/core.module"
     },
     {
       "id": "player",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "checksum": "9001BBA18BFF2C2F08B7E152382E12F3694CAF3D40D7195AD4D4FEFDF79EC995",
       "path": "modules/player.module"
     },
     {
       "id": "world",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "checksum": "AD7E4E9E34A6AB0B227F091C25060674A1A14D4BB53A6CBB1070655C20436E29",
       "path": "modules/world.module"
     }
